@@ -1,0 +1,14 @@
+{
+  "name": "cvsm-snowflake-vercel",
+  "version": "1.0.0",
+  "description": "CV SM Snowflake MCP Server for Vercel",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start"
+  },
+  "dependencies": {
+    "snowflake-sdk": "^1.9.0"
+  }
+}
