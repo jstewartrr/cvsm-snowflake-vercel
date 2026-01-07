@@ -4,9 +4,7 @@
   "description": "CV SM Snowflake MCP Server for Vercel",
   "main": "api/index.js",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build",
-    "start": "vercel start"
+    "dev": "vercel dev"
   },
   "dependencies": {
     "snowflake-sdk": "^1.9.0"
